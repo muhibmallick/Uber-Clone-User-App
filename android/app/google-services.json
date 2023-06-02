@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "345528376026",
+    "firebase_url": "https://driver-sapp-default-rtdb.firebaseio.com",
+    "project_id": "driver-sapp",
+    "storage_bucket": "driver-sapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345528376026:android:50a42c36debfd3df97e3e3",
+        "android_client_info": {
+          "package_name": "com.mallick.diversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345528376026-r0rar091r6lv07r8ggnoooo6b4ip2ehj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkj6xSO-D6FxuMD-AvAwR5y6hCfs41vvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345528376026-r0rar091r6lv07r8ggnoooo6b4ip2ehj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345528376026:android:5c4107b233d0f2c497e3e3",
+        "android_client_info": {
+          "package_name": "com.mallick.mycaptain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345528376026-r0rar091r6lv07r8ggnoooo6b4ip2ehj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkj6xSO-D6FxuMD-AvAwR5y6hCfs41vvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345528376026-r0rar091r6lv07r8ggnoooo6b4ip2ehj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
